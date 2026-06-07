@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Grade-10%2F10-FCC624?style=for-the-badge&logo=academiccap&logoColor=black" alt="Grade 10/10" />
 </p>
 
-Este repositorio contiene la solución completa (análisis y generador de claves) a un binario `crackme` de tipo "Sistema de Registro" para Windows. Este proyecto fue desarrollado como práctica de **Ingeniería Inversa** de máster, obteniendo la **calificación máxima (10/10)**.
+Este repositorio contiene la solución completa (análisis y generador de claves) a un binario `crackme` de tipo "Sistema de Registro" para Windows. Este proyecto fue desarrollado como práctica de **Ingeniería Inversa** mientras realizaba el CUFA.
 
 ---
 
